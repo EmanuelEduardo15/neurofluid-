@@ -1,0 +1,10 @@
+
+#### 2.2 `requirements.txt`
+```text
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.5
+pytest>=7.0
+sphinx>=5.0
+torch>=2.0
+transformers>=4.25
