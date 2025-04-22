@@ -1,5 +1,5 @@
 project = 'Neurofluid'
-author = 'Seu Nome'
+author = 'Emanuel Eduardo'
 release = '0.1.0'
 
 extensions = [
